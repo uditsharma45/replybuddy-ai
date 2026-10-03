@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+
+# Node
+node_modules/
+frontend/dist/
+
+# Local model caches
+models/
+*.gguf
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
